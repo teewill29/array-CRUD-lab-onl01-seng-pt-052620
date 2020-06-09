@@ -35,9 +35,9 @@ end
 
 new_array = ["wow", 1, "am", "arrays!"]
 def retrieve_first_element_from_array(array)
-  
+  new_array.first
 end
 
 def retrieve_last_element_from_array(array)
-  
+  new_array.last
 end
